@@ -79,6 +79,8 @@ To install the above mentioned dependencies use:
 - The twelve features that were selected by the  genetic algorithm were passed to the SVM along with their labels. 
 - The data was scaled and the  algorithm was executed after setting the appropriate parameters to their correct values, and the training set score of 95.23 and a testing set score of 92.31 was obtained. 
 
-##### REPOSITORY STRUCTURE
+## REPOSITORY STRUCTURE
 
 ![alt text](https://github.com/charanya78/fall_detection_audios/blob/main/diagrams/repo.PNG)
+
+This diagram shows the input - output flow through the different modules in the classifier.
