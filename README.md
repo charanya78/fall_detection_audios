@@ -53,4 +53,4 @@ To install the above mentioned dependencies use:
 
 ### REPOSITORY STRUCTURE
 
-![alt text](https://github.com/charanya78/cara_virtual_assistant/blob/main/diagrams/class_diagram.png)
+![alt text](https://github.com/charanya78/fall_detection_audios/blob/main/diagrams/repo.PNG)
