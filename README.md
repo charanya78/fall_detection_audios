@@ -47,4 +47,10 @@ To install the above mentioned dependencies use:
 - pip install seaborn
 - pip install matplotlib
 
+### ARCHITECTURE DIAGRAM
 
+![alt text](https://github.com/charanya78/cara_virtual_assistant/blob/main/diagrams/class_diagram.png)
+
+### REPOSITORY STRUCTURE
+
+![alt text](https://github.com/charanya78/cara_virtual_assistant/blob/main/diagrams/class_diagram.png)
