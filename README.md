@@ -84,3 +84,14 @@ To install the above mentioned dependencies use:
 ![alt text](https://github.com/charanya78/fall_detection_audios/blob/main/diagrams/repo.PNG)
 
 This diagram shows the input - output flow through the different modules in the classifier.
+
+## EXECUTION ORDER
+
+- Replicate the directory strcuture as given with falls and non falls directories in the directries - SisFall_audios, mfcc, mfcc_features,spectrograms, audio_features,mono_audios
+
+- Execution order remains the same as the numbers in the notebooks given
+
+- Change the path of the dataset as and when required
+
+
+
