@@ -85,7 +85,7 @@ To install the above mentioned dependencies use:
 
 This diagram shows the input - output flow through the different modules in the classifier.
 
-## EXECUTION ORDER
+## EXECUTION 
 
 - Replicate the directory strcuture as given with falls and non falls directories in the directries - SisFall_audios, mfcc, mfcc_features,spectrograms, audio_features,mono_audios
 
