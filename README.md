@@ -1,4 +1,4 @@
-# Fall Detection using Audios
+# Fall Detection Using Audios
 
 ### DESCRIPTION 
 
