@@ -1,18 +1,18 @@
 # Fall Detection Using Audios
 
-### DESCRIPTION 
+## DESCRIPTION 
 
 The aim of the project is to detect falls using an audio classifier. The audio is extracted from the live feed that is captured from the camera. Exploratory data analysis is performed on the extracted audio using Spectrograms and MFCCs. The amplitude of the sound signal is extracted at regular intervals, and the best features are selected through a genetic algorithm. Finally, the features that are selected are passed to an SVM classifier, and the falls are classified separately.
 
-### SOFTWARES USED
+## SOFTWARES USED
 
 - Jupyter Notebook - Implementation
 
-### LANGUAGE USED
+## LANGUAGE USED
 
 Python
 
-### DEPENDENCIES NEEDED
+## DEPENDENCIES NEEDED
 
 - moviepy
 
@@ -47,7 +47,7 @@ To install the above mentioned dependencies use:
 - pip install seaborn
 - pip install matplotlib
 
-### ARCHITECTURE DIAGRAM
+## ARCHITECTURE DIAGRAM
 
 ![alt text](https://github.com/charanya78/fall_detection_audios/blob/main/diagrams/arch_diag.PNG)
 
